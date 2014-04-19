@@ -1,5 +1,5 @@
 # Lab 2 for the Stats course
-
+## Get data on Kobe's shooting percentage
 library(psych)
 load(url("http://s3.amazonaws.com/assets.datacamp.com/course/dasi/kobe.RData"))
 head(kobe)
